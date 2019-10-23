@@ -24,8 +24,8 @@ print(joined_str)
 # 切片的时候包含 开始 索引，不包含结尾的索引
 sliced_str = joined_str[2:8]
 # print('用字符串切片的方式取出第三到第八个字符 ==>'，sliced_str)
-# print(sliced_str）
-print(sample_list[3:9])
+print(sliced_str)
+# print(sample_list[3:9])
 
 # 4.获得的字符串进行翻转
 
